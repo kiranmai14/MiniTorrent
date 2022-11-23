@@ -17,7 +17,7 @@ d. Fetch list of all Groups in server <br/>
 e. Request to Join Group <br/>
 f. Leave Group <br/>
 g. Accept Group join requests (if owner) <br/>
-h. Share file across group: Share the filename and SHA1 hash of the complete file <br/>
+h. Share file across group: Share the filename and SHA1 hash of the complete file  with the tracker <br/>
 i. Fetch list of all sharable files in a Group <br/>
 j. Download file <br/>
     i. Retrieve peer information from tracker for the file <br/>
